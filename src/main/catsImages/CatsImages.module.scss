@@ -1,0 +1,13 @@
+.container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+    
+    .catPic {
+        border-radius: 3px;
+        max-width: 14vw;
+        max-height: 20vw;
+        margin: 0px 3px 3px 0px;
+    }
+}
