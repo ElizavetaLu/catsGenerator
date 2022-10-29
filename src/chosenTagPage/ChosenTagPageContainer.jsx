@@ -45,9 +45,4 @@ const ChosenTagPageContainer = () => {
 }
 
 export default ChosenTagPageContainer
-// `/c/${textInput? 's/' + textInput + '?' :null}fi=sepia&c=orange&s=40&t=or`
-// `https://cataas.com/cat/${textInput? 'says/'+ textInput: null}`
-// 'https://cataas.com/cat/says/Pipka?type=medium?filter=blur?width=600?height=600'
-
-// '/c/gif/s/Hello?fi=sepia&c=orange&s=40&t=or'
 
